@@ -1,2 +1,2 @@
 # StudentDao
-This is my Student Record project
+This is my Student Record project in Jsp.
